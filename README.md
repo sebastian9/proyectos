@@ -1,2 +1,2 @@
-# blog
+# Blog
 Sebastian's Web Designer Blog
