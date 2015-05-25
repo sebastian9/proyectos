@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I went form 0 programming background to having my first Professional Blog in 6 months for one dollar.
+title: Form 0 programming to my first professional site in 6 months for one dollar.
 ---
 
 Well the numbers aren't that "true", but I had to get you into here let me contextualize you first. I'm a last year of highschool student in Mexico City and a couple of years ago I started to discover the internet stuff that I now love: awesome Youtube channels, TED, well done google search, and MOOC's.
