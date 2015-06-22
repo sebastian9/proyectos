@@ -1,14 +1,14 @@
 # Site settings
-title: Blog | Sebsatian LS
+title: SebsatianLS.com
 email: sebastianls0228@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Soy webmaster, emprendedor, y estudiante; desarrollo sitios web y campañas 
+  de publicidad en línea. Entre mis proyectos figura 
+  <a href="dodecaedro.mx-beta">dodecaedro.mx</a> que es un grupo de artistas 
+  comprometidos con la divulgación del arte.
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://sebastianls.com" # the base hostname & protocol for your site
+github_username:  sebastian9
 
 # Build settings
 markdown: kramdown
