@@ -1,0 +1,99 @@
+---
+layout: post
+title: EDM México | Propuesta
+---
+
+Estructuras Digitales de México es una empresa dedicada a brindar soluciones tecnológicas integradas en el campo de las telecomunicaciones. Hoy EDM tiene la ambición de atacar el mercado del menudeo de productos. Las siguientes son la propuesta de servicios ofrecidas para el éxito conjunto en ésta meta.
+
+## Solución desarrollando una Aplicación Web
+
+Las tecnologías que serán usadas en la web app, todas explicadas más adelante, son las siguientes:
+
++ Ruby on Rails
++ Spree Commerce
++ Heroku
++ Pay Pal
++ Certificado SSL
+
+Los objetivos de la Aplicación son los siguientes:
+
++ Bases sólidas para la escalabilidad
++ Integración de pagos seguros con PayPal
++ Opción de Facturación Electrónica
++ Posibilidad de administración desde internet
++ Solicitar envíos de manera automática una vez confirmado el pago
++ Optimización para motores de búsqueda
++ Despliegue objetivo de la información de la empresa
+
+### Estructura de la Página:
+
++ Página de Inicio: <br>
+	+ Describe el proceso artesanal de preparado
+	+ Imágenes de clientes, productos, mesas de "nueces" y arreglos.
+	+ Reseñas y experiencias de clientes
+	+ Formulario de contacto.
+
++ Landing Page: <br> 
+  Es una página que tiene como objetivo recibir las visitas que sean efectuadas desde google adwords para generar conversiones (contacto) y mostrar los productos en el sitio. <br>
+  Habrá dos:  	
+	+ Página para ventas a Mayoreo: <br> 
+	  Consta de:
+		+ Fotos de los productos
+		+ Reseñas de clientes
+		+ Formulario de Contacto
+		+ Sin precios
+	+ Página para ventas al menudeo y eventos: <br>
+	  Consta de:
+		+ Fotos de los productos
+		+ Fotos de mesas de "nueces", arreglos, o surtidos
+		+ Formulario de Contacto
+		+ Precios si es necesario.
+
+### Dominios:
+
++ http://vadenuez.com.mx
++ http://vadenuez.mx
+
+![Precios Dominios 1&1](/blog/assets/preciovdn.png)
+
+El pago anual de los dominios es ineludible; no se compran, es más acertado tomar el pago como una renta anual.<sup>1</sup>
+
+*No es obligatoria la renta de ambos dominios, sólo es recomendable.*
+
+### Hosting
+
+Es el servicio que se le da a una página web por el almacenamiento y de los archivos y su disponibilidad en línea.
+
+El hosting usualmente se paga anual o mensual dependiendo de la compañía, pero yo delego el hosting a una compañía llamada [GitHub](http://github.com) que no cobra un peso **nunca**. Mientras ése servicio esté en pie (y sus políticas no cambien), yo garantizo la seguridad de hosting gratuito año tras año lo que es un ahorro muy considerable a largo plazo e incluso desde el primer año.
+
+### El correo electrónico
+
+Se tendrá un buzón de correo gratuito por cada uno de los dominios gratuitos; ya sea con el formato *contacto@vadenuez* o *ventas@vadenuez*.
+
+Toda la información que proporcione un cliente en a través de un formulario en la página será reenviada a todos los correos indicados.
+
+### Formularios de contacto
+
+El servicio que se ocupa de los formularios de contacto es [formspree.io](http://formspree.io) y tiene una capa gratuita de 1000 formularios mensuales.
+
+### Redes Sociales
+
+Se creará una página de facebook enlazada a la página web con la opción de enlazar más redes sociales como pinterest o twitter en cualquier momento.
+
+### Adwords
+
+Es un servicio de google que te permite aparecer en las búsquedas patrocinadas cuando palabras clave relacionadas con tu producto son buscadas usando google. Sirve para atraer público segmentado a tu página. 
+
+El manejo de una campaña de Adwords es un servicio extra yo proporciono la asesoría para la realización de campañas sencillas.
+
+### Cotización
+
+El costo del diseño de una página con la estructura y los servicios mencionados es de:
+
+**$     **<sup> 2 3</sup>
+
+<hr><br>
+
+1. *Se entragará comprobante del pago de los dominios pero su administración queda a mi cargo.*
+2. *Precio de la renta mensual de los dominios no incluido*
+3. *El pago puede realizar en un plan de plazos.*
