@@ -4,7 +4,7 @@ email: contacto@sebastianls.com
 description: > # this means to ignore newlines until "baseurl:"
   Soy webmaster, emprendedor, y estudiante; desarrollo sitios web y campañas 
   de publicidad en línea. Entre mis proyectos figura 
-  <a href='dodecaedro.mx-beta'>dodecaedro.mx</a> que es un grupo de artistas 
+  <a href='http://dodecaedro.mx'>dodecaedro.mx</a> que es un grupo de artistas 
   comprometidos con la divulgación del arte.
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://sebastianls.com" # the base hostname & protocol for your site
