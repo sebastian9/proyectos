@@ -8,7 +8,7 @@ title: App de Dodecaedro
 + Sesiones que caducan al cerrar el navegador &times;
 + Sin recuerdame y sin verificación de usuario &times;
 + Publicación con la api de github &times;
-+ Creación de usuario por usuarios y verificación por el administrador
++ Verificación de usuario por el administrador
 + Update con la api de github
 + Comunicación con la api de facebook y twitter
 + Creación de tareas para agendar los posts
