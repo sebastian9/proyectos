@@ -19,3 +19,5 @@ title: App de Dodecaedro
 	+ Admin
 + Cada sección de la pagina tendrá su propio repositorio
 + Actualizar los includes de todas los repos de dodecaedro desde <http://dodecaedro.herokuapp.com/> sólo como admin
++ Previsualización de Artículo
++ Tests
