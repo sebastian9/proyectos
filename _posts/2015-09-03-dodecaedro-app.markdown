@@ -3,6 +3,7 @@ layout: post
 title: App de Dodecaedro
 ---
 
+<<<<<<< HEAD
 <style type="text/css">
 	table { border-collapse: collapse; }
 	table tr td { border: 2px solid black; }
@@ -113,3 +114,23 @@ title: App de Dodecaedro
 	+ Creador
 	+ Editor
 	+ Admin
+=======
++ Hosteada en Heroku &times;
++ Login en página de inicio &times;
++ Sesiones que caducan al cerrar el navegador &times;
++ Sin recuerdame y sin verificación de usuario &times;
++ Publicación con la api de github &times;
++ Verificación de usuario por el administrador
++ Update con la api de github
++ Comunicación con la api de facebook y twitter
++ Creación de tareas para agendar los posts
++ Newsletter mailer
++ Tres clases de usuario: 
+	+ Creador &times;
+	+ Editor
+	+ Admin
++ Cada sección de la pagina tendrá su propio repositorio
++ Actualizar los includes de todas los repos de dodecaedro desde <http://dodecaedro.herokuapp.com/> sólo como admin
++ Previsualización de Artículo
++ Tests
+>>>>>>> b929fbfe8352a5c55ad4f88db2e8a7c03be168fe
