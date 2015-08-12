@@ -1,9 +1,7 @@
 ---
 layout: post
-title: EDM México | Página Estática
+title: EDM México | Sitio
 ---
-
-## Descripción del Proyecto
 
 La página de EDM México será realizada en una sola página web con una navegación sencilla al estilo presentado en <a target="_blank" href="//voltajessolares.com">voltajessolares.com</a>. Será una página web con diseño responsivo de última generación y optimización para los motores de búsquedas lo que garantiza que la esperanza de vida de la página se extienda considerablemente.
 
@@ -16,7 +14,7 @@ La página de EDM México será realizada en una sola página web con una navega
 
 ## Hosting
 
-El hosting usualmente se paga anual o mensual dependiendo de la compañía, pero yo delego el hosting a una compañía llamada [GitHub](http://github.com) que da el servicio de forma gratuita (mientras las páginas cumplan con ciertos lineamientos). Mientras ése servicio esté en pie (y sus políticas no cambien), yo garantizo la seguridad de hosting gratuito año tras año lo que es un ahorro muy considerable a largo plazo e incluso desde el primer año. 
+El hosting usualmente se paga anual o mensual dependiendo de la compañía, pero yo delego el hosting a una compañía llamada [GitHub](http://github.com) que da el servicio de forma gratuita (mientras las páginas cumplan con ciertos lineamientos). Mientras ése servicio esté en pie (y sus políticas no cambien), yo garantizo la seguridad de hosting gratuito año tras año lo que es un ahorro mayor a largo plazo. 
 
 Github es una compañía grande y muy confiable dedicada principalmente al almacenamiento de código funcionando como red social para programadores; las páginas son hosteadas en los mismos servidores de Github así que mientras Github esté disponible edm-mexico lo estará. En lo personal hosteo todas mis páginas en Github.
 

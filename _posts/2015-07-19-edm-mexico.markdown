@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EDM México | Propuesta
+title: EDM México | Tienda en Línea
 ---
 
 Estructuras Digitales de México es una empresa dedicada a brindar soluciones tecnológicas integradas en el campo de las telecomunicaciones. Hoy EDM tiene la ambición de atacar el mercado del menudeo de productos por internet. La siguiente es la propuesta de servicios ofrecida para el éxito conjunto en ésta meta.
@@ -118,7 +118,7 @@ Al día de hoy es un requerimiento importante por parte del usuario el tener una
 
 La aplicación web porpuesta será un proyecto a largo plazo con una construcción modular, es decir que tendrá un enfoque de desarrollo perfectible con el potencial de estar siempre en evolución, adaptándose a nuevas tecnologías, introduciendo nuevas plataformas, actualizando la interaz gráfica y demás. Será un proyecto que vivo y con una ideología innovadora.
 
-+ Inversión en el Recurso Humano para el desarrollo: <br> La tarifa por hora es de $100 lo que se traduce en $4,000 semanales considerando que se laborara la jornada completa.
++ Inversión en el Recurso Humano para el desarrollo: <br> La tarifa por hora es de ___ lo que se traduce en ___ semanales considerando que se laborara la jornada completa.
 + Hosting: <br> El hosting tendría un costo inicial de $100 dolares mensuales con heroku.
 + Dominio y Certificado SSL: <br> Los precios varían pero están en un aproximado de $40 dólares anuales por ambos.
 + PayPal: <br> PayPal cobra una comisión por transacción dependiendo del plan elegido.

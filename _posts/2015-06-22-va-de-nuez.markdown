@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Va de Nuez | Propuesta
+title: Va de Nuez | Sitio
 ---
 
 ## Estructura de la Página:

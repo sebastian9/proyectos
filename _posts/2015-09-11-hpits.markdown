@@ -1,0 +1,64 @@
+---
+title: Propuesta HPits
+date: 11-09-2015
+layout: post
+---
+
+El objetivo del sitio web de Hpits es sentar las bases para construir una marca reconocida con una base sólida de clientes fieles. La web es un lugar ideal para empezar a formar una presencia en la comunidad debido al alcance que tiene; también cuenta con herramientas de publicidad para generar y mantener clientes como Adwords o las Redes Sociales.
+
+# Diseño
+
+El diseño de la página será de estilo minimalista y siguiendo el concepto de las tiendas; se incluirá el logo y los colores característicos de la marca. 
+
+La tecnología usada permitirá que la página se despliegue de manera distinta en celulares, tablets y computadoras para que los clientes tengan la posibilidad de una navegación sencilla y puntual.
+
+# Anuncios de Google
+
+Google AdWords es el programa que utiliza Google para ofrecer publicidad patrocinada a potenciales anunciantes. Los anuncios patrocinados de Adwords aparecen en paralelo a los resultados de búsquedas naturales u orgánicas; también está la Red Display de Google que muestra sus anuncios en zonas de páginas web, en forma de banners, que pueden ser imágenes, vídeos o texto.
+
+La ventaja de los anuncios de Adwords es que despliegan información importante al cliente, y son personalizables dependiendo de los criterios de búsqueda o de la segmentación demo/geográfica que se implemente en el anuncio. La mayor ventaja frente a la demás pulicidad es que, en el caso de Adwords, sólo se cobra por clic en el anuncio, es decir, por cada contacto con un cliente potencial y no por cada exposición.
+
+AdSense o la red display de Google es una red de anuncios que te permite exhibir tu marca en sitios web que atañen a tus servicios y te da la posibilidad de hacerlo únicamente con personas que ya han mostrado interés en tu sitio a manera de remarketing.
+
+# Redes Sociales
+
+Se creará una página de facebook enlazada a la página web con la opción de enlazar más redes sociales como pinterest o twitter en cualquier momento. Una página de facebook dedicada a la empresa tiene como objetivo generar clientes.
+
+Cuando una persona le de like a la página estará expuesta a la información que sea publicada en la misma a través de su sección de noticias en facebook; esa información puede contener promociones, información sobre productos, o enlaces a distintas páginas que insiten al cliente a la compra.
+
+# Formulario de Contacto
+
+Un formulario de contacto es la herramienta más importante para conseguir clientes a través de la página web. De preferencia ha de ser un campo atractivo y de fácil acceso y que no pida demasiada información para facilitarle su uso al cliente. 
+
+A través de el se realizan cotizaciones y peticiones de informes, el servicio que se ocupa de los formularios de contacto es [formspree.io](http://formspree.io) que cuenta con una capa gratuita de 1000 formularios mensuales.
+
+# Correo Electrónico
+
+Se tendrá un buzón de correo electrónico gratuito que seguirá el formato de contacto@hpits.mx o ventas@hpits.mx, toda la información que sea enviada a éste correo será reenviada a los correos que sean indicados.
+
+# Hosting
+
+El hosting usualmente se paga anual o mensual dependiendo de la compañía, pero yo delego el hosting a una compañía llamada [GitHub](http://github.com) que da el servicio de forma gratuita (mientras las páginas cumplan con ciertos lineamientos). Mientras ése servicio esté en pie (y sus políticas no cambien), yo garantizo la seguridad de hosting gratuito año tras año lo que es un ahorro mayor a largo plazo. 
+
+# Cotización
+
+<table>
+	<tbody>
+		<tr>
+			<td>Dominio </td>
+			<td>$ 399 *</td>
+		</tr>
+		<tr>
+			<td>Desarrollo:&emsp;&emsp;</td>
+			<td>$ 4,000</td>
+		</tr>
+		<tr>
+			<td><br><b>Total</b></td>
+			<td><br><b>$ 4,399**</b></td>
+		</tr>
+	</tbody>
+</table>
+<br>
+\* Tarifa Anual del Registro de Dominio MX. <br>
+\*\* A 3 pagos en efectivo incluyendo un anticipo de $1,000.<br>
+\*\* A 6 meses con American Express (más iva), con posibilidad a facturar.
